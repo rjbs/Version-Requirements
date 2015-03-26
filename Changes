@@ -2,6 +2,13 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+0.101023  2015-03-25 21:44:39-04:00 America/New_York
+          DEPRECATED DEPRECATED DEPRECATED DEPRECATED
+
+          Version::Requirements is still DEPRECATED
+
+          ...and now it's in the metadata
+
 0.101022  2012-02-03 10:29:59 America/New_York
           DEPRECATED DEPRECATED DEPRECATED DEPRECATED
 
